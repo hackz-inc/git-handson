@@ -5,12 +5,12 @@ https://hackz.connpass.com/event/131770/
 ## ファイル説明
 - [setup.md](https://github.com/moririn772/git-handson/blob/master/setup.md)  
   ハンズオン用資料（セットアップ）
-- 01.md  
-  ハンズオン用資料
-- 02.md  
-  ハンズオン用資料
-- 03.md  
-  ハンズオン用資料
+- [01.md](https://github.com/moririn772/git-handson/blob/master/01.md)  
+  ハンズオン用資料 - イチから作るVer.
+- [02.md](https://github.com/moririn772/git-handson/blob/master/02.md)  
+  ハンズオン用資料 - 既存のリポジトリをさわる
+- [03.md](https://github.com/moririn772/git-handson/blob/master/03.md)  
+  ハンズオン用資料 - 複数人でやってみる
 - /personal  
   ハンズオン用サンプル置き場 - 個人開発Ver.
 - /forteam  
