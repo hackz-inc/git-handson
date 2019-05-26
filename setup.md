@@ -107,3 +107,10 @@ WindowsでのSSHはハマりポイントが多く、本題の操作に影響が�
 
 HTTPSでのクローン方法は別途説明します。
 
+<br>
+
+## Gitの初期設定をする
+```
+git config --global user.name "Keisuke Mory"
+git config --global user.email GITHUBに登録してるメールアドレス
+```
