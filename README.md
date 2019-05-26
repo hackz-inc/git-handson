@@ -3,6 +3,8 @@
 https://hackz.connpass.com/event/131770/
 
 ## ファイル説明
+- [setup.md](https://github.com/moririn772/git-handson/blob/master/setup.md)  
+  ハンズオン用資料（セットアップ）
 - 01.md  
   ハンズオン用資料
 - 02.md  
